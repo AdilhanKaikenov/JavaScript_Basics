@@ -1,0 +1,1 @@
+![js-01](https://raw.githubusercontent.com/AdilhanKaikenov/JavaScript_Basics/master/js_step_4%20(object,%20array)/etc/Objects_Arrays.jpg)
