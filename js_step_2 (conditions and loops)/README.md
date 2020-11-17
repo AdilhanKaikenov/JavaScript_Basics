@@ -1,0 +1,1 @@
+![js-01](https://raw.githubusercontent.com/AdilhanKaikenov/JavaScript_Basics/master/js_step_2%20(conditions%20and%20loops)/etc/conditions_and_loops.jpg)  
