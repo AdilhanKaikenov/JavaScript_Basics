@@ -24,7 +24,7 @@
 'use strict';
 
 // 1
-const numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?", "");
+const numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?", "");
 console.log(numberOfFilms);
 
 // 2
