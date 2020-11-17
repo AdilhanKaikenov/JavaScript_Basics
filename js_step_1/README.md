@@ -34,7 +34,7 @@ alert( isBoss ); // true, если нажата OK
 * ternary allows operations with three argument  
 
 **Data type classification in JavaScript**  
-![js-01](https://raw.githubusercontent.com/AdilhanKaikenov/JavaScript_Basics/tree/master/js_step_1/etc/types_2020.jpg)  
+![js-01](https://raw.githubusercontent.com/AdilhanKaikenov/JavaScript_Basics/master/js_step_1/etc/types_2020.jpg)  
 
 
 
