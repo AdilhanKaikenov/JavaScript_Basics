@@ -70,4 +70,4 @@ hearts[0].replaceWith(circles[0]);
 div.textContent = "Hello"; // only text can be added
 div.innerHTML = "<p>Html text</p>"; // text or html can be added
 
-div.insertAdjacentHTML("beforebegin", "<p>Hello</p>")
+div.insertAdjacentHTML("beforebegin", "<h2>Hello</h2>"); // insert html before or after certain tags
