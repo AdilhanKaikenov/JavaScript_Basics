@@ -10,7 +10,7 @@ const   btn1 = document.querySelector("#btn1"),
         btn2 = overlay.querySelector("#btn2"),
         link = document.querySelector("a");
 
-        btn1.addEventListener("click", () => {
+btn1.addEventListener("click", () => {
     alert("First");
 });
 
