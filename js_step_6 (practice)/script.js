@@ -61,10 +61,11 @@ const personalMovieDB = {
 
     writeYourGenres: function() {
         for (let i = 1; i < 2; i++) {
-            const genre = prompt("Введите Ваши любимые жанче через запятую");
+            const genre = prompt("Введите Ваши любимые жанры через запятую");
 
             if (genre !== '' && genre != null) {
                 this.genres = genre.split(', ');
+                this.genres.sort();
             } else {
                 console.log("Вы ввели неккоректные данные или не ввели ничего вовсе.");
                 i--;
