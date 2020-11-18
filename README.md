@@ -1,0 +1,1 @@
+![js-01](https://raw.githubusercontent.com/AdilhanKaikenov/JavaScript_Basics/master/classification.jpg)  
