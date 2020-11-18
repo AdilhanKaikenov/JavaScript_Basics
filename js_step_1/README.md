@@ -36,5 +36,6 @@ alert( isBoss ); // true, если нажата OK
 **Data type classification in JavaScript**  
 ![js-01](https://raw.githubusercontent.com/AdilhanKaikenov/JavaScript_Basics/master/js_step_1/etc/types_2020.jpg)  
 
-
+**Dynamic typing**  
+Dynamic typing is a technique in which a variable is associated with a type at the time of assigning a value, and not at the time of declaring a variable. Simply put, dynamic typing is the ability of one data type to transform into another.  
 
