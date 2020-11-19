@@ -1,7 +1,6 @@
 'use strict';
 
 const btn = document.querySelector('.btn');
-let timerId;
 
 function myAnimation() {
     const box = document.querySelector('.box');
