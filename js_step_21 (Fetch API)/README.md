@@ -9,6 +9,8 @@ The Fetch API provides a JavaScript interface for working with HTTP requests and
 
 Similar functionality was previously achieved using XMLHttpRequest. Fetch is the best alternative that can be easily used by other technologies.  
 
+(!) The most important thing to understand is that fetch works on promises and we can also make a chain of then() calls, which in fact are callbacks.
+
 ```js
 fetch('http://example.com/movies.json')
     .then((response) => {
