@@ -1,1 +1,1 @@
-![js-01](https://raw.githubusercontent.com/AdilhanKaikenov/JavaScript_Basics/master/classification.jpg)  
+The project was created to study the javascript language, notes, examples for practice.
