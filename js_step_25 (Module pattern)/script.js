@@ -1,5 +1,7 @@
 'use sctrict';
 
+// Article: https://habr.com/ru/company/ruvds/blog/419997/
+
 // A well-designed module doesn't depend on other code in any way
 // Modules allow us to avoid pollution of the global space and avoid conflict situations with the same names
 
